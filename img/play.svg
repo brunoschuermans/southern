@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 200 200">
+ <circle fill="transparent" stroke="#FFFFFF" stroke-width="8" cx="100" cy="100" r="96"></circle>
+ <circle clip-path="url(#clipper)" fill="url(#ripple)" cx="100" cy="100" r="130"></circle>
+  <polygon fill="#FFFFFF" points="70.993,60.347 153.398,102.384 70.993,144.42   "></polygon>
+
+  <defs>
+    <clipPath id="clipper">
+      <circle cx="100" cy="100" r="93"></circle>
+    </clipPath>
+    <radialGradient id="ripple">
+      <stop offset="0.0183334" stop-color="#000" stop-opacity="0.25">
+        <animate attributeName="offset" values="0;0.70" begin="0.2s" dur="2.1s" repeatCount="indefinite"></animate>
+      </stop>
+      <stop offset="0.135" stop-color="#888" stop-opacity="0.35">
+        <animate attributeName="offset" values="0.05;0.75" begin="0" dur="2.1s" repeatCount="indefinite"></animate>
+      </stop>
+      <stop offset="0.209286" stop-color="#000" stop-opacity="0.25">
+        <animate attributeName="offset" values="0.10;1" begin="0" dur="2.1s" repeatCount="indefinite"></animate>
+      </stop>
+    </radialGradient>
+  </defs>
+</svg>
